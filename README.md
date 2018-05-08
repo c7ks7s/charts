@@ -1,3 +1,5 @@
+# ARCHIVED -- NO LONGER MAINTAINED
+
 # Helm Charts
 
 Use this repository to submit official Charts for Kubernetes Helm. Charts are curated application definitions for Kubernetes Helm. For more information about installing and using Helm, see its
